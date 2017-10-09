@@ -47,7 +47,6 @@
     display: inline-flex;
     border-radius: 2px;
     margin: 24px;
-    bottom: -100px;
   }
 }
 @media (max-width: 640px) {
