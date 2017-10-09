@@ -14,5 +14,5 @@ Este exemplo consiste em demonstrar a exibição de um toast seguindo as seguint
    ao clicar o mesmo deve ser acionado a promise e exibição de uma nova mensagem, após isso o toast será fechado. 
 
 
-OBS:O arquivo GIF e uma demonstração animada do toast funcionando, também pode ser acessado através do link:
+OBS:O arquivo toastExample.ogv e uma demonstração animada do toast funcionando, também pode ser acessado através do link:
 http://toast-example.surge.sh/
