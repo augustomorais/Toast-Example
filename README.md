@@ -2,6 +2,8 @@
 Exemplo de toast feito para exibição mobile ou no proprio browser. 
 Este exemplo consiste em demonstrar a exibição de um toast seguindo as seguintes regras.
 
+*  Basta clonar o projeto e abrir no seu browser que o mesmo já ira funcionar.
+
 ·  Deve ser responsivo, para utilização mobile.
 
 ·  Mensagem ser exibida no topo ou abaixo da página.
