@@ -12,3 +12,6 @@ Este exemplo consiste em demonstrar a exibição de um toast seguindo as seguint
 
 ·  O botão “Toast Promise” ao ser acionado e após exibição do toast mostra um pequeno texto para fechar,
    ao clicar o mesmo deve ser acionado a promise e exibição de uma nova mensagem, após isso o toast será fechado. 
+
+
+OBS:O arquivo GIF e uma demonstração animada do toast funcionando.
