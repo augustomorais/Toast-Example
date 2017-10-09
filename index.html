@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Toast Material Style</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/styleFields.css">
+</head>
+  <body>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='//fonts.googleapis.com/css?family=RobotoDraft:regular,bold,italic,thin,light,bolditalic,black,medium&lang=en'
+      rel='stylesheet' type='text/css'>
+    <h2>Exemplo de Toast</h2>
+    <form>
+      <div class="group">
+        <input type="text" id="message" value="Mensagem Toast">
+        <span class="highlight"></span>
+        <span class="bar"></span>
+        <label>Texto Toastbar</label>
+      </div>
+      <div class="group">
+        <input type="number" id="timeSnack" value="3">
+        <span class="highlight"></span>
+        <span class="bar"></span>
+        <label>Tempo de exibição (Segundos)</label>
+      </div>
+    </form>
+      <button id="single" class="paper-button raised-button colored">Toast Top<div class="ripple"/></button>
+      <button id="multi" class="paper-button raised-button colored">Toast Bottom<div class="ripple"/></button>
+      <button id="multiaction" class="paper-button raised-button colored">Toast Promise<div class="ripple"/></button>
+    
+      <script src="js/index.js"></script>
+      
+  </body>
+</html>
