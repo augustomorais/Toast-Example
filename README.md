@@ -3,6 +3,9 @@ Exemplo de toast feito para exibição mobile ou no proprio browser.
 Este exemplo consiste em demonstrar a exibição de um toast seguindo as seguintes regras.
 
 *  Basta clonar o projeto e abrir no seu browser que o mesmo já ira funcionar.
+*  Lembrando que para executar o teste mobile basta apertar a tecla F12 do seu teclado,
+   na parte superior do lado esquerdo da tela basta clicar no icone de um pequeno telefone e tablet,
+   após isso já será possivel presseguir com o teste mobile do toast.
 
 ·  Deve ser responsivo, para utilização mobile.
 
